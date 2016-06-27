@@ -1,5 +1,3 @@
-# Epression
-
 #Inspiration
 We knew how big of a problem depression is and the complications it could cause so we set out to find a way that would let parents and loved ones of a depressed individual know that their loved one is depressed. That is when we came across the idea that to be able to detect depression, we could look at a sentiment analysis of a user’s social media page to see how trends of emotion were seeming to go.
 
